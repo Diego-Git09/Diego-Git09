@@ -51,6 +51,20 @@ Participé en la definición de funciones, las pruebas de respuestas, las mejora
 
 [**Explorar el proyecto →**](https://github.com/Diego-Git09/Jarvis)
 
+
+## Proyecto destacado · Gestor de correos
+
+**Aplicación de escritorio para preparar mensajes personalizados, trabajar con contactos y adjuntos PDF y consultar reportes.**
+
+Proyecto personal creado por iniciativa propia para automatizar tareas repetitivas. La versión pública conserva el diseño original y utiliza datos ficticios, sin envíos reales ni acceso a cuentas.
+
+[![Formulario del gestor de correos](https://raw.githubusercontent.com/Diego-Git09/Gestor-Correos-Demo/main/docs/imagenes/formulario-demo.png)](https://github.com/Diego-Git09/Gestor-Correos-Demo)
+
+**Python · Tkinter · CustomTkinter · PDF**
+
+[**Explorar el proyecto →**](https://github.com/Diego-Git09/Gestor-Correos-Demo)
+
+
 ## Lo que estoy fortaleciendo
 
 - Comprensión del código y de la estructura de mis proyectos.
