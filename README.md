@@ -4,17 +4,12 @@ Soy Analista Programador en formación.
 
 ## Tecnologías con las que he trabajado
 
--Android Studio y Kotlin
-
--Python
-
--Java y Spring Boot
-
--APIs REST
-
--MySQL y SQL
-
--Git y GitHub
+- Android Studio y Kotlin
+- Python
+- Java y Spring Boot
+- APIs REST
+- MySQL y SQL
+- Git y GitHub
 
 ## Mi objetivo
 
